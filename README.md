@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Falenphist
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on C# projects
 - 📫 How to reach me klin404@gmail.com
 - ⚡ Fun fact: i’m a metro train driver
 
